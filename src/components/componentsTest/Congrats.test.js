@@ -1,6 +1,6 @@
 import {shallow} from "enzyme";
-import Congrats from "./Congrats";
-import {findByTestAttr, checkProps} from "../test/testUtils";
+import Congrats from "../Congrats";
+import {findByTestAttr, checkProps} from "../../../test/testUtils";
 
 
 
