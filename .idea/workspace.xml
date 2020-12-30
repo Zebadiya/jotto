@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339afeca-808f-4c7f-910a-3b0b28523754" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/helpers/helpersTest/index.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Congrats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Congrats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/GuessedWords.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GuessedWords.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609006196120</updated>
-      <workItem from="1609006197490" duration="13004000" />
+      <workItem from="1609006197490" duration="14159000" />
     </task>
     <servers />
   </component>
