@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339afeca-808f-4c7f-910a-3b0b28523754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reducers/reducerTest/successReducer.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/componentsTest/Input.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/successReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/successReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/testUtils.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609006196120</updated>
-      <workItem from="1609006197490" duration="17502000" />
+      <workItem from="1609006197490" duration="19997000" />
     </task>
     <servers />
   </component>
