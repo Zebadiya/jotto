@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339afeca-808f-4c7f-910a-3b0b28523754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/integration.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/action/actionTest/index.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/actionTest/index.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609006196120</updated>
-      <workItem from="1609006197490" duration="24210000" />
+      <workItem from="1609006197490" duration="25902000" />
+      <workItem from="1610284364057" duration="815000" />
+      <workItem from="1610392887562" duration="696000" />
     </task>
     <servers />
   </component>
@@ -67,5 +65,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

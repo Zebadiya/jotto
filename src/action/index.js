@@ -6,5 +6,5 @@ export  const actionTypes = {
 export const guessedWord = (guessedWord) => {
     return function(dispatch, getState) {
 
-    }
+    };
 }
