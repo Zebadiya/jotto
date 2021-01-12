@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339afeca-808f-4c7f-910a-3b0b28523754" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/reducers/secretWordReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integration.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/integration.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/guessedWordsReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,23 @@
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +69,7 @@
       <updated>1609006196120</updated>
       <workItem from="1609006197490" duration="25902000" />
       <workItem from="1610284364057" duration="815000" />
-      <workItem from="1610392887562" duration="696000" />
+      <workItem from="1610392887562" duration="5720000" />
     </task>
     <servers />
   </component>
